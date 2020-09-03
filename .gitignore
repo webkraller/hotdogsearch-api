@@ -130,3 +130,6 @@ dmypy.json
 
 # VS Code workspace settings
 *.code-workspace
+
+#key
+*.key
